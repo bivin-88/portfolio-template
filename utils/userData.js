@@ -25,7 +25,7 @@ export const front_face = {
 	about: user.about,
 	intro: [
 		{
-			name: "Recent Accomplishments",
+			name: "Skills",
 			type: "text",
 			contents: user.accomplishments,
 		},
@@ -35,7 +35,7 @@ export const front_face = {
 			contents: user.socialLink,
 		},
 		{
-			name: "Currently",
+			name: "Experience",
 			type: "text",
 			contents: user.currentProfession,
 		},
@@ -61,9 +61,9 @@ export const front_face = {
 
 export const workExperience = user.workExperience.map((experience) => ({
 	infoData: {
-		Company: [experience.company],
+		Project: [experience.company],
 		Description: [experience.description],
-		"My Objectives": experience.objectives,
+		Role: experience.objectives,
 	},
 	link: experience?.link ?? "",
 	image: {
