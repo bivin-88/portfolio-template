@@ -90,4 +90,4 @@ export const footerInfoData = [
 	},
 ];
 
-export const theme = colorThemes.light;
+export const theme = colorThemes.dark;
