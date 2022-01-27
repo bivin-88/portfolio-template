@@ -35,9 +35,8 @@ export default {
 		{ name: "Discord", value: "Bivin#3483" },
 	],
 	currentStatus: [
-		"Walking my dog in the park",
-		"Making dog excuse to gawk at the hot girl",
-	],
+        "B-Tech Computer Science Engineering with spec in Information Security || Vellore Institute of Technology(VIT), India (• 2020 - 2024 •)",
+    ],
 
 	// work
 	// image min-dimensions: 1640x600
