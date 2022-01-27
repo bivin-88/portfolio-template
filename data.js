@@ -17,7 +17,7 @@ export default {
 		{ name: "Behance", link: "https://www.behance.net/bivinjoseph" },
 		{ name: "Twitter", link: "https://twitter.com/biviiin" },
 		{ name: "Github", link: "https://github.com/bivin-88" },
-		{ name: "Youtube", link: "/https://www.youtube.com/watch?v=6Nb-prB-4P0" },
+		{ name: "Youtube", link: "https://www.youtube.com/watch?v=6Nb-prB-4P0" },
 		{ name: "Spotify", link: "/" },
 	],
 	currentProfession: [
@@ -70,13 +70,5 @@ export default {
 		},
 	],
 };
-		{
-			company: "Panda App || Dating App ",
-			description:
-				"PANDA will be a 'dating app' without being called a dating app. It will incorporate a test and certain tangible metrics that may allow/disallow people onto the PANDA framework, ensuring that most—if not all—users are an appropriate match for another.",
-			objectives: ["UX/UI Designer"],
-			link: "https://www.notion.so/Panda-App-Dating-App-51a1ba9ffbb94dc69b1bae86e342b455",
-			image: "/images/panda.png",
-		},
-	],
+		
 };
