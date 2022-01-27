@@ -84,7 +84,7 @@ export const footerInfoData = [
 		contents: user.socialLink,
 	},
 	{
-		name: "what am i upto right now",
+		name: "CURRENTLY PURSUING",
 		type: "text",
 		contents: user.currentStatus,
 	},
