@@ -48,7 +48,7 @@ export default {
 			description:
 				"METRIDE, an online alternative to metro cards that helps the users to book metro in an easier and convenient way giving a great user experience.",
 			objectives: ["UX/UI Designer"],
-			link: "https://www.notion.so/METRIDE-an-alternate-for-physical-metro-cards-cdb974f2f90c4dd48701b2879d2f3ede",
+			link: "https://alabaster-bovid-aed.notion.site/METRIDE-an-alternate-for-physical-metro-cards-cdb974f2f90c4dd48701b2879d2f3ede",
 			image: "/images/metride.png",
 		},
 		{
@@ -56,7 +56,7 @@ export default {
 			description:
 				"NEWO is the only platform across the globe to integrate instant messaging and cab hailing on a single application. Users get the immense connectivity and convenience alongside a list of astonishing features, all specially designed for stylish iPhones & user-friendly Android devices.",
 			objectives: ["UX/UI Designer"],
-			link: "https://www.notion.so/Newo-App-Cab-Booking-App-dee781afcb5247728a9cf46d2512a065",
+			link: "https://alabaster-bovid-aed.notion.site/Newo-App-Cab-Booking-App-dee781afcb5247728a9cf46d2512a065",
 			image: "/images/newo.png",
 		},
 		{
@@ -64,7 +64,7 @@ export default {
 			description:
 				"PANDA will be a 'dating app' without being called a dating app. It will incorporate a test and certain tangible metrics that may allow/disallow people onto the PANDA framework, ensuring that most—if not all—users are an appropriate match for another.",
 			objectives: ["UX/UI Designer"],
-			link: "https://www.notion.so/Panda-App-Dating-App-51a1ba9ffbb94dc69b1bae86e342b455",
+			link: "https://alabaster-bovid-aed.notion.site/Panda-App-Dating-App-51a1ba9ffbb94dc69b1bae86e342b455",
 			image: "/images/panda.png",
 		},
 	],
