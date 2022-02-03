@@ -48,7 +48,7 @@ export default {
 			description:
 				"METRIDE, an online alternative to metro cards that helps the users to book metro in an easier and convenient way giving a great user experience.",
 			objectives: ["UX/UI Designer"],
-			link: "https://alabaster-bovid-aed.notion.site/METRIDE-an-alternate-for-physical-metro-cards-cdb974f2f90c4dd48701b2879d2f3ede",
+			link: "https://alabaster-bovid-aed.notion.site/METRIDE-an-alternate-for-physical-metro-cards-d3326125108348549194005bcbcd4d05",
 			image: "/images/metride.png",
 		},
 		{
