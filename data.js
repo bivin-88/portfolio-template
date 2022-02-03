@@ -65,7 +65,7 @@ export default {
 				"PANDA will be a 'dating app' without being called a dating app. It will incorporate a test and certain tangible metrics that may allow/disallow people onto the PANDA framework, ensuring that most—if not all—users are an appropriate match for another.",
 			objectives: ["UX/UI Designer"],
 			link: "https://alabaster-bovid-aed.notion.site/Panda-App-Dating-App-51a1ba9ffbb94dc69b1bae86e342b455",
-			image: "/images/panda.png",
+			image: "/images/Group 1954.png",
 		},
 	],
 };
