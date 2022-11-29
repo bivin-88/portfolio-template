@@ -3,7 +3,7 @@ export default {
 	name: "Bivin",
 	email: "bivinjoseph121@gmail.com",
 	about:
-		"Hey! I'm <b>Bivin Joseph</b>, a 19 years old <b>UX/UI Designer</b> and <b>Product Designer</b> currently based in <b>India</b>.",
+		"Hey! I'm <b>Bivin Joseph</b>, a 20 years old <b>UX/UI Designer</b> and <b>Product Designer</b> currently based in <b>India</b>.",
 
 	// intro
 	accomplishments: [
